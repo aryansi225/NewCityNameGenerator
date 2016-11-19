@@ -5,10 +5,10 @@ In this project a recurrent neural network has been trained on the dataset conta
 # Examples
 
 New names generated are like
-Chanra
-Karla
-Macham
-Gha
+* Chanra
+* Karla
+* Macham
+* Gha
 
 # Dependencies
 
