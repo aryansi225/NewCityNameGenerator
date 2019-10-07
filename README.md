@@ -17,6 +17,6 @@ New names generated are like
 
 python citygenerator.py
 
-# Credits
+# References
 
-[Siraj Raval](https://github.com/llSourcell/build_a_neural_net_live)
+https://github.com/llSourcell/build_a_neural_net_live
