@@ -20,3 +20,11 @@ python citygenerator.py
 # References
 
 https://github.com/llSourcell/build_a_neural_net_live
+
+# My Original Contribution & Learnings
+
+Contribution =>
+Reimplemented the code from the link in reference with a different dataset.
+
+Major Learnings => 
+Learnt how to use Tflearn for LSTM and sequence models.
