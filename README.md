@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=KvoZU-ItDiE
 # My Original Contribution & Learnings
 
 Contribution =>
-Reimplemented the code from the link in reference with a different dataset.
+Reimplemented the code from the link in reference with a indian city name dataset.
 
 Major Learnings => 
 Learnt how to use Tflearn for LSTM and sequence models.
