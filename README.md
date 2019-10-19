@@ -19,7 +19,7 @@ python citygenerator.py
 
 # References
 
-https://github.com/llSourcell/build_a_neural_net_live
+https://www.youtube.com/watch?v=KvoZU-ItDiE
 
 # My Original Contribution & Learnings
 
